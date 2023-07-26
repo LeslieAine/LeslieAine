@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, I'm Leslie.</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Full+Stack+Web+Developer;Always+learning+new+things;I+develop+efficient+web+applications;I+solve+problems" alt="Typing SVG" /></a>
-
 <h1 align="center">Hi 👋, I'm Leslie Aine</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Full+Stack+Web+Developer;Always+learning+new+things;I+develop+efficient+web+applications;I+solve+problems" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leslieaine&label=Profile%20views&color=0e75b6&style=flat" alt="leslieaine" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leslieaine" alt="leslieaine" /></a> </p>
+
 
 - 🔭 I’m currently working on **React, JavaScript, and Ruby on Rails projects**
 
@@ -31,6 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leslieaine&show_icons=true&locale=en&layout=compact" alt="leslieaine" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leslieaine&show_icons=true&locale=en" alt="leslieaine" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leslieaine&" alt="leslieaine" /></p>
